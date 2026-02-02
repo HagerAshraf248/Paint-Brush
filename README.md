@@ -29,6 +29,10 @@ Allows users to draw freely by dragging the mouse to create continuous lines.
 
 Enables users to erase parts of drawings by dragging over them.
 
+### Undo
+
+Allows users to undo the most recent drawing actions.
+
 ### Clear All
 
 Removes all drawings from the canvas.
@@ -40,12 +44,6 @@ When selected, shapes are drawn with dotted lines. Otherwise, lines are solid.
 ### Filled Option
 
 When selected, Rectangle and Oval shapes are filled with the chosen color. Otherwise, they are outlines only.
-
-## Bonus Feature
-
-### Undo
-
-Allows users to undo the most recent drawing actions.
 
 ## Technologies Used
 
